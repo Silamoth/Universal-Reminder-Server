@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Project Files\Universal Reminder Server NEW\Universal Reminder Server NEW\bin\Debug\Universal Reminder Server NEW.exe.config
+C:\Users\Michael\Documents\Project Files\Universal Reminder Server NEW\Universal Reminder Server NEW\bin\Debug\Universal Reminder Server NEW.exe
+C:\Users\Michael\Documents\Project Files\Universal Reminder Server NEW\Universal Reminder Server NEW\bin\Debug\Universal Reminder Server NEW.pdb
+C:\Users\Michael\Documents\Project Files\Universal Reminder Server NEW\Universal Reminder Server NEW\obj\Debug\Universal Reminder Server NEW.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Project Files\Universal Reminder Server NEW\Universal Reminder Server NEW\obj\Debug\Universal Reminder Server NEW.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Project Files\Universal Reminder Server NEW\Universal Reminder Server NEW\obj\Debug\Universal Reminder Server NEW.exe
+C:\Users\Michael\Documents\Project Files\Universal Reminder Server NEW\Universal Reminder Server NEW\obj\Debug\Universal Reminder Server NEW.pdb
